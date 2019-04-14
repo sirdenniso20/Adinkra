@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26025" started-at="2019-04-14T13:18:01Z" finished-at="2019-04-14T13:18:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26025" started-at="2019-04-14T13:18:01Z" finished-at="2019-04-14T13:18:27Z">
+      <class name="TestReservation">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestReservation@36d4b5c]" name="SetUp" is-config="true" duration-ms="5969" started-at="2019-04-14T13:18:01Z" finished-at="2019-04-14T13:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyErrorMessageTest()[pri:0, instance:TestReservation@36d4b5c]" name="verifyErrorMessageTest" duration-ms="946" started-at="2019-04-14T13:18:07Z" finished-at="2019-04-14T13:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMessageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestReservation@36d4b5c]" name="tearDown" is-config="true" duration-ms="737" started-at="2019-04-14T13:18:08Z" finished-at="2019-04-14T13:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestReservation@36d4b5c]" name="SetUp" is-config="true" duration-ms="5095" started-at="2019-04-14T13:18:09Z" finished-at="2019-04-14T13:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyReservationPageTitleTest()[pri:0, instance:TestReservation@36d4b5c]" name="verifyReservationPageTitleTest" duration-ms="9" started-at="2019-04-14T13:18:14Z" finished-at="2019-04-14T13:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReservationPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestReservation@36d4b5c]" name="tearDown" is-config="true" duration-ms="726" started-at="2019-04-14T13:18:14Z" finished-at="2019-04-14T13:18:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestReservation@36d4b5c]" name="SetUp" is-config="true" duration-ms="5111" started-at="2019-04-14T13:18:15Z" finished-at="2019-04-14T13:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyTypeOfServiceTest()[pri:0, instance:TestReservation@36d4b5c]" name="verifyTypeOfServiceTest" duration-ms="123" started-at="2019-04-14T13:18:20Z" finished-at="2019-04-14T13:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTypeOfServiceTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestReservation@36d4b5c]" name="tearDown" is-config="true" duration-ms="703" started-at="2019-04-14T13:18:20Z" finished-at="2019-04-14T13:18:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:TestReservation@36d4b5c]" name="SetUp" is-config="true" duration-ms="4908" started-at="2019-04-14T13:18:21Z" finished-at="2019-04-14T13:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifytNameAndEmailConstraintTest()[pri:0, instance:TestReservation@36d4b5c]" name="verifytNameAndEmailConstraintTest" duration-ms="935" started-at="2019-04-14T13:18:26Z" finished-at="2019-04-14T13:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytNameAndEmailConstraintTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestReservation@36d4b5c]" name="tearDown" is-config="true" duration-ms="736" started-at="2019-04-14T13:18:27Z" finished-at="2019-04-14T13:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestReservation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
